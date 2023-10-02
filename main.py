@@ -1,5 +1,4 @@
 """
-Can be used on QUANTT Connect, learned from QUANTT Investing workshop
 
 Uses mean reversion
 
